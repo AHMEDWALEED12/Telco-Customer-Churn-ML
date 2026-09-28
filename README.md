@@ -59,7 +59,9 @@ To account for class imbalance inherent in customer churn datasets, models were 
 
 `text
 ├── Telco_Customer_Churn_Analysis.ipynb  # Primary Google Colab Notebook
+
 ├── requirements.txt                      # Required Dependencies & Libraries
+
 └── README.md                            # Project Documentation
 
 
