@@ -67,6 +67,9 @@ To account for class imbalance inherent in customer churn datasets, models were 
 
 #How to Run
 Open the notebook in Google Colab.
+
 Install the packages listed in requirements.txt if needed.
+
 Run the notebook cells from top to bottom.
+
 Review the model comparison and final insights.
